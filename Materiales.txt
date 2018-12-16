@@ -1,0 +1,9 @@
+****Materiales****
+1. Buzzer
+2. Arduino UNO
+3. Teclado matricial
+4. Servo motor 180 grados
+5. Led rojo y verde
+6. Pantalla LCD 16x2
+7. Protoboard
+8. Cables 
